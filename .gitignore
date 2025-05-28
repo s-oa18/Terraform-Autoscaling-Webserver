@@ -13,3 +13,7 @@ crash.log
 # Override files (e.g., for local variables)
 *.tfvars
 *.tfvars.json
+
+# macOS system files
+.DS_Store
+
