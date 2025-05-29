@@ -65,6 +65,11 @@ terraform apply
 ### 🖥️ Accessing the Web Server
 
 After deployment, Terraform will output the DNS name of the ALB:
+```bash
+Outputs:
+
+alb_dns_name = "apache-alb-1987387423.eu-west-1.elb.amazonaws.com"
+```
 Open this in a browser to see the Apache welcome page served from EC2 instances.
 
 ---
