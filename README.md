@@ -117,7 +117,7 @@ aws cloudwatch set-alarm-state \
 
 ---
 
-### 🔄 Auto Scaling###
+### 🔄 Auto Scaling
 
 - CloudWatch alarms automatically adjust the number of EC2 instances based on CPU load
 - Instances are spread across 3 Availability Zones
