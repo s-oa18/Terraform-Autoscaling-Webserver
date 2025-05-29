@@ -1,4 +1,4 @@
-# 🏗️ Autoscaling Apache Web Server Using Terraform on AWS 
+# Autoscaling Apache Web Server Using Terraform on AWS 
 
 This project provisions a **highly available Apache web server infrastructure** using Terraform on AWS. The architecture uses an Application Load Balancer (ALB), Auto Scaling Group (ASG), and spans **three Availability Zones (AZs)** with public and private subnets to ensure fault tolerance, scalability, and performance.
 
